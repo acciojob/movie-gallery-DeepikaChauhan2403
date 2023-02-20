@@ -1,9 +1,10 @@
 
-/* Your CSS Code here. */
-.row1{
+/*Your CSS Code here. */ 
+ .row{
 	display:flex;
-	flex-flow: row wrap;
+	flex-flow: row;
 	justify-content: space-evenly;
+	overflow-x: scroll; 
 	
 }
 img{
